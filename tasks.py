@@ -31,7 +31,7 @@ def add_task(task_name):
     tasks.append(task)
     save_tasks(tasks)
 
-    print("Task added successfully!")
+    print(f"Task added successfully: {task_name}")
 
 
 # Function to view tasks
