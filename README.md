@@ -5,3 +5,4 @@
 - Mark tasks as completed
 - Delete tasks
 - Store tasks using JSON
+Project Status: Version B
